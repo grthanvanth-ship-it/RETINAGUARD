@@ -170,7 +170,7 @@ app.launch(share=True)
 # Explainable AI for Rural Retinal Screening
 # COMPLETE ONE-CELL VERSION
 # ============================================================
- -q gradio torch torchvision huggingface_hub opencv-python-headless
+ 
 
 import os
 import glob
