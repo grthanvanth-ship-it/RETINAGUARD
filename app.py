@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1qYUDvdrqvxhJ82CwsEXzOTnl1StoRpZ5
 """
 
-!pip install -q gradio torch torchvision huggingface_hub opencv-python-headless
+ -q gradio torch torchvision huggingface_hub opencv-python-headless
 
 import os, glob
 import torch
@@ -170,8 +170,7 @@ app.launch(share=True)
 # Explainable AI for Rural Retinal Screening
 # COMPLETE ONE-CELL VERSION
 # ============================================================
-
-!pip install -q gradio torch torchvision huggingface_hub opencv-python-headless
+ -q gradio torch torchvision huggingface_hub opencv-python-headless
 
 import os
 import glob
