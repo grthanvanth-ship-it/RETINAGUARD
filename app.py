@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1qYUDvdrqvxhJ82CwsEXzOTnl1StoRpZ5
 """
 
- -q gradio torch torchvision huggingface_hub opencv-python-headless
+ 
 
 import os, glob
 import torch
